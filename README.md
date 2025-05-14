@@ -1,5 +1,5 @@
 ## Some lore to the Mat
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matlorr)](https://github.com/anuraghazra/github-readme-stats&theme=calm)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matlorr)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)

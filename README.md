@@ -9,7 +9,7 @@
 
 ### The Framworks and Runtimes I am Bound to
 
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=1e2122&logoColor=339933&logo=node-dot-js)
 
 ### The Languages I can Read but cannot Write
 

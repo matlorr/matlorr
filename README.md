@@ -17,7 +17,7 @@
 
 ### The Markups I use
 
-[Markdown]: https://img.shields.io/badge/Markdown-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=markdown
+![Markdown](https://img.shields.io/badge/Markdown-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=markdown)
 
 ### My Humble Workhorse OS
 

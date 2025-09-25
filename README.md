@@ -13,7 +13,7 @@
 
 ### The Languages I Used a Long Time ago
 
-![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&labelColor=63b232&logoColor=5881D8&logo=clojure)
+![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&labelColor=63b232&logoColor=5881D8&logo=clojure) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&labelColor=34495E&logoColor=0095D5&logo=kotlin)
 
 ### The Markups I use
 

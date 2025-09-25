@@ -11,9 +11,9 @@
 
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=1e2122&logoColor=339933&logo=node-dot-js)
 
-### The Languages I can Read but cannot Write
+### The Languages I Used a Long Time ago
 
-
+![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&labelColor=63b232&logoColor=5881D8&logo=clojure)
 
 ### The Markups I use
 
